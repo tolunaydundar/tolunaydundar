@@ -15,6 +15,7 @@ What I'm capable of using or doing at the time being (Only CS related ones)
 - CSS
 - Bootstrap
 - WordPress
+- Responsive Web Design
 
 What I'm currently learning
 ---
