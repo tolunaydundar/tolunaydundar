@@ -8,9 +8,7 @@ Henlo, it's a me! Tolunay! But you can call me Tolu or Lulu! I'm 23 and I'm madl
 
 I studied German Translation and Interpretation at Hacettepe University. Well, kind of... I dropped out in order to change my major . At the moment I'm studying Physics at Dokuz Eylul University.
 
-* 🌍  I'm based in Turkey
-* ✉️  You can contact me at [dndr.dev@protonmail.com](mailto:https://www.linkedin.com/in/tolunaydundar/)
-* 🧠  I'm learning JavaScript
+✉️  You can contact me at [dndr.dev@protonmail.com](mailto:https://www.linkedin.com/in/tolunaydundar/)
 
 ### Skills
 
