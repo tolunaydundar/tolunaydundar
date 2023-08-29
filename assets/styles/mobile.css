@@ -1,11 +1,12 @@
-main#main {
-	justify-content: center;
-	align-items: center;
-	text-align: center;
-	padding-right: 0;
+nav {
+	flex-direction: column;
+	padding: 1rem 0;
 }
 
 div.container {
-	margin-top: 1rem;
-	margin-bottom: 1rem;
+	align-items: center;
+}
+
+ul.content-list li.content {
+	text-align: center;
 }
