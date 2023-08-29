@@ -10,7 +10,6 @@ body {
 
 nav {
 	width: 100vw;
-	height: 10vh;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
