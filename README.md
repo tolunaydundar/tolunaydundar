@@ -14,6 +14,6 @@ I studied German Translation and Interpretation at Hacettepe University. Well, k
 ![Version Control](https://i.imgur.com/2OKiCwd.png) ![HTML](https://i.imgur.com/R4ZFpsm.png) ![CSS](https://i.imgur.com/d5pWgUQ.png) ![JavaScript](https://i.imgur.com/cbpE0vv.png) ![Adobe Photoshop](https://i.imgur.com/QcRXF7A.png) ![Adobe Premiere Pro](https://i.imgur.com/28p9Nzd.png) ![Adobe Audition](https://i.imgur.com/ymF9Ho1.png)
 
 ### Resume
-[FlowCV](https://flowcv.com/resume/sv9ji58aok)
+[FlowCV (Long Version)](https://flowcv.com/resume/sv9ji58aok)
 
-[GitHub Pages](https://tolunaydundar.github.io/tolunaydundar/)
+[GitHub Pages (Short Version)](https://tolunaydundar.github.io/tolunaydundar/)
