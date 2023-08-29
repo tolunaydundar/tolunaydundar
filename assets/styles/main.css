@@ -20,7 +20,6 @@ h2 {
 nav#navbar {
     width: 100vw;
     height: 10vh;
-    padding-right: 1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
