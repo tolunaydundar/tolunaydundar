@@ -1,0 +1,10 @@
+main#main {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-right: 0;
+}
+
+div.container {
+    margin-bottom: 1rem;
+}
