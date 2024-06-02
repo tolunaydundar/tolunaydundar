@@ -8,7 +8,7 @@ Henlo, it's a me! Tolunay! But you can call me Tolu or Lulu! I'm 23 and I'm madl
 
 I studied German Translation and Interpretation at Hacettepe University. Well, kind of... I dropped out in order to change my major. At the moment I'm studying Physics at Dokuz Eylul University.
 
-✉️  You can contact me at [dndr.dev@protonmail.com](mailto:https://www.linkedin.com/in/tolunaydundar/)
+✉️  You can contact me at [contact@tolunaydundar.com](mailto:https://www.linkedin.com/in/tolunaydundar/)
 
 ### Skills
 ![Version Control](https://i.imgur.com/2OKiCwd.png) ![HTML](https://i.imgur.com/R4ZFpsm.png) ![CSS](https://i.imgur.com/d5pWgUQ.png) ![JavaScript](https://i.imgur.com/cbpE0vv.png) ![Adobe Photoshop](https://i.imgur.com/QcRXF7A.png) ![Adobe Premiere Pro](https://i.imgur.com/28p9Nzd.png) ![Adobe Audition](https://i.imgur.com/ymF9Ho1.png)
@@ -17,3 +17,5 @@ I studied German Translation and Interpretation at Hacettepe University. Well, k
 [FlowCV (Long Version)](https://flowcv.com/resume/sv9ji58aok)
 
 [GitHub Pages (Short Version)](https://tolunaydundar.github.io/tolunaydundar/)
+
+[Personal Website (GitHub Copy)](https://tolunaydundar.com)
