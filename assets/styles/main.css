@@ -47,6 +47,11 @@ nav ul#contact-links li.contact-links-item a.contact-links-item-link {
 	text-decoration: none;
 }
 
+nav ul#contact-links li.contact-links-item:hover {
+	cursor: pointer;
+	border-bottom: 2px solid #000;
+}
+
 nav ul#contact-links li.contact-links-item a#contact-links-item-brand-link p#contact-links-item-brand-heading {
 	font-size: 1.25rem;
 	font-weight: 600;
