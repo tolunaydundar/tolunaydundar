@@ -2,7 +2,7 @@ It's a me! Tolu!
 ===============================
 Level 24, Humanoid, Novice Netrunner & Science Wizard
 
-Physics undergraduate, technologist in the making, freelance translator & localization specialist, FOSS & digital rights advocate.
+Physics undergraduate, technologist in the making, translator/localization specialist, FOSS & digital rights advocate.
 
 [contact@tolunaydundar.com](mailto:https://www.linkedin.com/in/tolunaydundar/)
 
