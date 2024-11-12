@@ -1,12 +1,18 @@
 nav {
+	height: unset;
 	flex-direction: column;
-	padding: 1rem 0;
+	gap: 1rem;
+	margin: auto;
 }
 
-div.container {
-	align-items: center;
+nav h2#summary {
+	display: none;
 }
 
-ul.content-list li.content {
-	text-align: center;
+nav ul#contact-links li.contact-links-item a#contact-links-item-brand-link p#contact-links-item-brand-heading {
+	display: none;
+}
+
+main {
+	gap: 2rem;
 }
