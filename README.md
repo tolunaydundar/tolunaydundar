@@ -1,17 +1,23 @@
-Greetings, fellow Earthlings!
+It's a me! Tolu!
 ===============================
+Level 24, Humanoid, Novice Netrunner & Science Wizard
 
-Student / Translator & Localization Specialist
-----------------------------------------------
+Physics undergraduate, technologist in the making, freelance translator & localization specialist, FOSS & digital rights advocate.
 
-Henlo, it's a me! Tolunay! But you can call me Tolu or Lulu! I'm 23 and I'm madly in love with science, technology, video games, books (mostly sci-fi and biographic) and music (especially rock and metal \\m/). In fact, [you know, I'm something of a musician myself](https://www.youtube.com/watch?v=D_oTxsHK5d8). Joking aside, [I'm an amateur self-taught guitarist-ish](https://www.youtube.com/watch?v=jticyp_3V48&feature=youtu.be) and a freelance translator.
-
-I studied German Translation and Interpretation at Hacettepe University. Well, kind of... I dropped out in order to change my major. At the moment I'm studying Physics at Dokuz Eylul University.
-
-✉️  You can contact me at [contact@tolunaydundar.com](mailto:https://www.linkedin.com/in/tolunaydundar/)
+[contact@tolunaydundar.com](mailto:https://www.linkedin.com/in/tolunaydundar/)
 
 ### Skills
-![Version Control](https://i.imgur.com/2OKiCwd.png) ![HTML](https://i.imgur.com/R4ZFpsm.png) ![CSS](https://i.imgur.com/d5pWgUQ.png) ![JavaScript](https://i.imgur.com/cbpE0vv.png) ![Adobe Photoshop](https://i.imgur.com/QcRXF7A.png) ![Adobe Premiere Pro](https://i.imgur.com/28p9Nzd.png) ![Adobe Audition](https://i.imgur.com/ymF9Ho1.png)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Learning
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Resume
 [FlowCV (Long Version)](https://flowcv.com/resume/sv9ji58aok)
